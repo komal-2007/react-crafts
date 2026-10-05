@@ -1,6 +1,24 @@
-h1{
-    font-weight: 700;
+.heading{ 
+    font-weight:700;
     font-size:45px;
     margin:10px;
     margin-bottom:20px;
 }
+input{
+    width: 100%;
+}
+.items-container {
+    text-align: left;
+}
+.my-row{
+    margin:10px 5px;
+
+}
+.my-button{
+    width: 70px;
+
+}
+.col-2{
+    width: 10px;
+}
+
